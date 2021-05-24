@@ -4,15 +4,8 @@
         <title>uenc Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
         <description>uenc Blog</description>
-        <lastBuildDate>Sun, 23 May 2021 04:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2015 23:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[one title]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/intro2</link>
-            <guid>one title</guid>
-            <pubDate>Sun, 23 May 2021 04:55:14 GMT</pubDate>
-            <description><![CDATA[Let's discover Docusaurus in less than 5 minutes.]]></description>
-        </item>
     </channel>
 </rss>
